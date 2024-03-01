@@ -16,7 +16,9 @@ N/A
 
 ## Data Sources:
 [Spotify API](https://developer.spotify.com/documentation/web-api) 
+
 [Billboard charts ](https://www.billboard.com/charts/hot-100/)
+
 [wikipedia Timeline](https://en.wikipedia.org/wiki/Timeline_of_the_21st_century)
 
 
